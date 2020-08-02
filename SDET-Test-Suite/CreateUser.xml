@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="d2a13d24-c37e-45e4-8ccc-27dd26cc1bc8" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="CreateUser" searchProperties="true" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="d2a13d24-c37e-45e4-8ccc-27dd26cc1bc8fileName">CreateUser</con:setting></con:settings><con:testStep type="restrequest" name="REST Request" id="6ae8e98e-3637-4bbf-9208-6ad0726bcbec"><con:settings/><con:config service="http://tekschool-test-env.herokuapp.com" methodName="Method 1" resourcePath="/jpa/users" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="REST Request" id="a5ad1997-3a6f-40af-ba42-99d51b1ec0d2" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://tekschool-test-env.herokuapp.com</con:endpoint><con:request>{
+  "birthDate": "1980-01-15T20:43:33.632Z",
+  "employmentStatus": "Jobless",
+  "firstName": "shan",
+  "gender": "Male",
+  "financial": "stable",
+  "languagePref": "English",
+  "lastName": "conor",
+  "maritalStatus": "Single",
+  "middleName": "James",
+  "suffix": "Senior",
+  "title": "Mr."
+}</con:request><con:originalUri>http://tekschool-test-env.herokuapp.com/jpa/users</con:originalUri><con:credentials><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:properties/><con:reportParameters/></con:testCase>

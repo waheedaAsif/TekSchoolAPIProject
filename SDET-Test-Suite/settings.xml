@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="7437d598-ca71-42e7-bac0-c6120202cbe4" name="SDET Test Suite" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="7437d598-ca71-42e7-bac0-c6120202cbe4fileName">SDET-Test-Suite</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>

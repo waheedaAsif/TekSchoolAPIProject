@@ -1,0 +1,16 @@
+http%3A%2F%2Ftekschool-test-env.herokuapp.com\GetAllUsers.xml
+http%3A%2F%2Ftekschool-test-env.herokuapp.com\CreateUser.xml
+http%3A%2F%2Ftekschool-test-env.herokuapp.com\DeleteSecondaryUser.xml
+http%3A%2F%2Ftekschool-test-env.herokuapp.com\RetriveUser.xml
+http%3A%2F%2Ftekschool-test-env.herokuapp.com\DeleteUser.xml
+http%3A%2F%2Ftekschool-test-env.herokuapp.com\RetrieveSecondaryUser.xml
+http%3A%2F%2Ftekschool-test-env.herokuapp.com\CreateSecondryUser.xml
+http%3A%2F%2Ftekschool-test-env.herokuapp.com\RetrieveUserByHeader.xml
+http%3A%2F%2Ftekschool-test-env.herokuapp.com\DeleteUserByHeader.xml
+http%3A%2F%2Ftekschool-test-env.herokuapp.com\RetrieveUserByParameter.xml
+http%3A%2F%2Ftekschool-test-env.herokuapp.com\DeleteUserByParameter.xml
+SDET-Test-Suite\GetAllUsers.xml
+SDET-Test-Suite\CreateUser.xml
+SDET-Test-Suite\GetUser.xml
+SDET-Test-Suite\DeleteUser.xml
+SDET-Test-Suite\Task4DeleteUser.xml
